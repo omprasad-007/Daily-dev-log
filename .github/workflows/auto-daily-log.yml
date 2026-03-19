@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "omprasad-07"
+          git config --global user.name "omprasad-007"
           git config --global user.email "omprasadpadwalkar007@gmail.com"
           git add logs/
           git diff --staged --quiet || (git commit -m "chore: update daily dev log" && git push)
