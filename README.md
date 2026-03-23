@@ -9,12 +9,12 @@ A production-ready automation system designed to maintain a developer's daily le
 
 ## Project Overview
 
-The Daily Dev Log Automation System helps developers maintain consistency by:
+The Daily Dev Log Automation System helps developers to maintain consistency by:
 - Automatically generating structured daily logs.
 - Capturing learning topics, code written, and problems solved.
 - Summarizing weekly progress every Sunday.
 - Keeping GitHub contributions consistent and meaningful.
-
+- Updating Dates
 ## Project Structure
 
 ```text
